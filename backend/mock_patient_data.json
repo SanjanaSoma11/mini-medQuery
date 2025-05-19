@@ -1,0 +1,65 @@
+{
+    "patient_id": "12345",
+    "name": "John Doe",
+    "age": 52,
+    "diagnoses": [
+        {
+            "date": "2024-06-12",
+            "condition": "Hypertension"
+        },
+        {
+            "date": "2023-11-23",
+            "condition": "Type 2 Diabetes"
+        },
+        {
+            "date": "2024-01-15",
+            "condition": "High Cholesterol"
+        }
+    ],
+    "medications": [
+        {
+            "name": "Lisinopril",
+            "dosage": "10mg",
+            "frequency": "Once daily"
+        },
+        {
+            "name": "Metformin",
+            "dosage": "500mg",
+            "frequency": "Twice daily"
+        },
+        {
+            "name": "Atorvastatin",
+            "dosage": "20mg",
+            "frequency": "Once at night"
+        }
+    ],
+    "test_results": [
+        {
+            "type": "Blood Glucose",
+            "value": "140 mg/dL",
+            "date": "2024-03-11"
+        },
+        {
+            "type": "Cholesterol",
+            "value": "220 mg/dL",
+            "date": "2024-03-11"
+        },
+        {
+            "type": "Blood Pressure",
+            "value": "135/85 mmHg",
+            "date": "2024-06-12"
+        }
+    ],
+    "visits": [
+        {
+            "date": "2024-06-12",
+            "specialist": "Cardiologist",
+            "notes": "Routine check-up"
+        },
+        {
+            "date": "2024-01-15",
+            "specialist": "Endocrinologist",
+            "notes": "Follow-up on blood sugar levels"
+        }
+    ]
+}
