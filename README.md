@@ -1,4 +1,4 @@
-#Mini MedQuery System
+Mini MedQuery System
 ===================
 
 A lightweight medical query system that allows users to ask natural language questions about their health records, with responses generated from either direct data lookup or Google Gemini AI.
